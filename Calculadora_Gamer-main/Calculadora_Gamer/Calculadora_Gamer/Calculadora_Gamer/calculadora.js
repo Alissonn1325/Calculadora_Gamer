@@ -1,4 +1,4 @@
-let btnNumeros = document.getElementsByClassName('botao');
+let btnNumeros = document.getElementsByClassName('Btn_numero');
 let visor = document.getElementById('resultado');
 
 let operacao = null;
